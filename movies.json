@@ -1,0 +1,47 @@
+{
+    "data": [
+      {
+        "id": 0,
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "score": 100,
+        "stars": ["Marlon Brando", "Al Pacino", "Robert Duvall"]
+      },
+      {
+        "id": 1,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "director": "Peter Jackson",
+        "score": 92,
+        "stars": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"]
+      },
+      {
+        "id": 2,
+        "title": "Terminator 2: Judgement Day",
+        "director": "James Cameron",
+        "score": 94,
+        "stars": ["Arnold Schwarzenegger", "Edward Furlong", "Linda Hamilton"]
+      },
+      {
+        "id": 3,
+        "title": "Tombstone",
+        "director": "George P. Cosmatos",
+        "score": 89,
+        "stars": ["Kurt Russell", "Bill Paxton", "Sam Elliot"]
+      },
+      {
+        "id": 4,
+        "title": "Star Wars",
+        "director": "George Lucas",
+        "score": 92,
+        "stars": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"]
+      },
+      {
+        "id": 5,
+        "title": "Dumb and Dumber",
+        "director": "The Farely Brothers",
+        "score": 76,
+        "stars": ["Jim Carrey", "Jeff Daniels", "Lauren Holly"]
+      }
+    ]
+  }
+  
