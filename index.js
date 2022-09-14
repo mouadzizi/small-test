@@ -13,7 +13,7 @@ fetch("movies.json")
 
         console.log(sortedL);
         sortedL.forEach(element => {
-            console.log(element.score + " " + element.title + " " + element.score / 20);
+            console.log(element.id + ". " + element.title + " " + element.score / 20 + "/5");
         });
 
     });
