@@ -11,7 +11,6 @@ fetch("movies.json")
 
         })
 
-        console.log(sortedL);
         sortedL.forEach(element => {
             document.getElementById("data").innerHTML += 
             `
